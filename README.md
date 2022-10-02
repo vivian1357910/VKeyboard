@@ -1,6 +1,8 @@
 # VKeyboard
 影像與深度動態辨識之虛擬鍵盤
 
+Demo影片：https://www.youtube.com/shorts/J3KODkaQ0yo
+
 
 指導老師： 蔡政宇  博士
 
